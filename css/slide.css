@@ -16,3 +16,17 @@
     transform: translate(-50%);
     display: flex;
 }
+
+.bar {
+    width: 70px;
+    height: 17px;
+    border: 2px solid #fff;
+    margin: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.bar:hover {
+    background-color: #fff;
+}
