@@ -30,3 +30,8 @@
 .bar:hover {
     background-color: #fff;
 }
+
+input {
+    display: none;
+}
+
